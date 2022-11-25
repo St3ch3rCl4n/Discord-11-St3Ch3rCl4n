@@ -5567,7 +5567,7 @@
 :root {
     --online-color: hsl(113, 51%, 58%);
     --idle-color: hsl(54, 100%, 49%);
-    --dnd-color: hsl(354, 100%, 80%);
+    --dnd-color: hsl(113, 51%, 58%);
     --offline-color: hsl(0, 0%, 54%);
     --streaming-color: hsl(283, 100%, 69%);
 }
